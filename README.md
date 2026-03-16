@@ -1,18 +1,5 @@
 
 
----
-
-## 🛠️ Tecnologias Utilizadas
-- **Python 3**
-- Estruturas condicionais
-- Entrada e saída de dados (`input()` e `print()`)
-
----
-
-## 🎯 Objetivo do Repositório
-Este repositório serve para acompanhar a minha evolução na programação, praticar a lógica e consolidar conhecimentos fundamentais de Python.
-
----
 
 # 👋 Olá! Bem-vindo ao meu perfil
 
